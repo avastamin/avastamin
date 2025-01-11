@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-I am a Full Stack Developer with a huge love for React.js, React Native, Next.js, Node.js, TypeScript, Python, PHP, Laravel, Headless Tech, Everything API, RDBMS, WordPress, TailwindCSS and System Architecture. Currently, **I'm open to work and employment opportunities**.
-
 <!--
 **avastamin/avastamin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -42,6 +40,8 @@ Here are some ideas to get you started:
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white)
 ![Mac OS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
+
+I am a Full Stack Developer with a huge love for React.js, React Native, Next.js, Node.js, TypeScript, Python, PHP, Laravel, Headless Tech, Everything API, RDBMS, WordPress, TailwindCSS and System Architecture. Currently, **I'm open to work and employment opportunities**.
 
 ### 🔥 My Stats :
 
